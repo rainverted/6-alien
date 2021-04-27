@@ -8,7 +8,7 @@
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://rainverted.github.io/5-sign-up/
+Site published at https://rainverted.github.io/6-alien/
 
 Design: [Alien](https://discord.com/channels/571393319201144843/833468929020133416)
 
