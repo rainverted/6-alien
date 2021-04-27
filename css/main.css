@@ -1,0 +1,80 @@
+body {
+    background-color: #4E4088;
+    font-family: 'Nunito', sans-serif;
+}
+
+header{
+    display: inline-block;
+    width: 800px;
+    margin-left: calc(50% - 400px);
+
+}
+
+body > header > img {
+    height: 55px;
+    float: left;
+}
+
+header > nav {
+    float: right;
+    margin-top: 6px;
+
+
+}
+
+a {
+    float: left;
+    line-height: 28px;
+    padding: 10px;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 14px;
+
+}
+
+nav > a:last-of-type {
+       border-left: solid 1px white;
+       border height: ;
+}
+
+body > main {
+    display: inline-block;
+    margin-top: 50px;
+    width: 800px;
+    margin-left: calc(50% - 400px);
+
+}
+
+main > img {
+    float: left;
+    width: 46%;
+    margin-left: 2%;
+
+}
+
+main > div > h1 {
+    color: white;
+    width: 100%;
+    font-size: 50px;
+    margin: 1;
+    line-height: 80px;
+
+}
+
+header > h1:last-of-type {
+    
+}
+
+p {
+    color: white;
+
+}
+
+div > p:last-of-type {
+    font-size: 12px;
+   display: inline-block;
+   border: dashed 2px #DD3E62;
+   border-radius: 12px;
+   padding: 1%;
+
+
